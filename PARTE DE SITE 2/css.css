@@ -1,0 +1,31 @@
+#menu ul {
+    padding:7px;
+    margin:0px;
+    background-color:blue;
+    list-style:none;
+    width:868px;
+    height:25px;
+    border-radius: 10px;
+}
+
+#menu ul li {
+    font-family: Arial;
+    font-size:20px;
+    display: inline; 
+}
+
+#menu ul li a {
+    
+    padding: 6px 18px;
+    border-radius: 0px;
+    background-color:blue;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-bottom:3px solid blue;
+}
+
+#menu ul li a:hover {
+    background-color:blue;
+    color: #FFFFFF;
+    border-bottom:4px solid #008000;
+}
